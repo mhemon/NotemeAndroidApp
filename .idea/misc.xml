@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/drawable/dialog_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/drawable/item_shpae.xml" value="0.2203125" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/drawable/status_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/font/font_multi.xml" value="0.234375" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/activity_add_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/activity_edit_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/activity_task_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/dialog_edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/email_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/fragment_done.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/fragment_open.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/fragment_progress.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/fragment_test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/phone_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/success_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/task_item.xml" value="0.33" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/layout/url_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Emon/AndroidStudioProjects/NotemeAndroidApp/app/src/main/res/menu/navigation_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
